@@ -1,0 +1,5 @@
+{
+    "ACCESS_KEY": "<ACCESS KEY>",
+    "CACHE_FILE": "cache.db",
+    "CACHE_TIME": 2
+}
