@@ -6,7 +6,7 @@
  *  \__,_|_| |_|\___| .__/
  *                  |_|
  *
- * Unsplash Cache Proxy
+ * UNsplash Cache Proxy
  *
  * Copyright (C) 2022 Jakub T. Jankiewicz <https://jcubic.pl/me>
  * Released under license GPLv3 or later
