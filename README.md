@@ -23,5 +23,5 @@ and register as developer. CACHE_TIME is number of minutes for cache (default 2 
 ## License
 
 Released under GPL v3 or later<br/>
-Copyright (C) [Jakub T. Jankiewicz](https://jakub.jankiewicz.org)
+Copyright (C) 2022 [Jakub T. Jankiewicz](https://jakub.jankiewicz.org)
 
