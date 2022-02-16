@@ -159,7 +159,7 @@ $statuses = array(
 
 // main
 header_remove("X-Powered-By");
-header('Content-Type: application/javascript');
+header('Content-Type: application/json');
 
 $req = request();
 serve($req);
