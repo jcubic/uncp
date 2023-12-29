@@ -14,7 +14,7 @@ You can use this file to use Unsplash API and not worry about rate limiting.
 
 This project was created as a helper for technical interviews and Live Coding sessions.
 
-* [Check online demo](https://codepen.io/jcubic/pen/PoOYwER)
+* [Check online demo](https://codepen.io/jcubic/pen/PoOYwER?editors=0010)
 * [API example](https://unsplash.just.net.pl/?q=kitten&s=12)
 
 
