@@ -8,9 +8,9 @@
                  |_|
 ```
 
-PHP file that acts as a proxy for Unsplash API. It uses the SQLite database as a cache.
-You can use this file to use Unsplash API and not worry about rate limiting.
-50 per hour for demo apps.
+PHP file that acts as a proxy for [Unsplash API](https://unsplash.com/developers).
+It uses the SQLite database as a cache. You can use this file to use Unsplash API
+and not worry about rate limiting. 50 per hour for demo apps.
 
 This project was created as a helper for technical interviews and Live Coding sessions.
 
